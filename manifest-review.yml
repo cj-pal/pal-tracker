@@ -3,4 +3,3 @@ applications:
 - name: pal-tracker
   path: build/libs/pal-tracker.jar
   host: cc-pal-tracker-review
-  env:
