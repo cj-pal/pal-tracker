@@ -4,3 +4,5 @@ out
 .idea
 *.iml
 ci/variables.yml
+cj_pal*
+gradlew.bat
