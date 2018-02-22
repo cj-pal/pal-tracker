@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 import java.util.*;
 import java.util.concurrent.atomic.AtomicLong;
 
-@Component
+//@Component
 public class InMemoryTimeEntryRepository implements TimeEntryRepository {
 
     private AtomicLong idGenerator = new AtomicLong(1l);
